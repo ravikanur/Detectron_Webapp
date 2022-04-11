@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/env/Lib/site-packages/win32" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/env/Lib/site-packages/win32/lib" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/env" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Detectron Webapp) (3)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
